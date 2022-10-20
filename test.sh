@@ -1,1 +1,1 @@
-echo "Hello There!"
+echo "Hello There! Accumulate Changes"
